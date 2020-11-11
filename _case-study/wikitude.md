@@ -9,7 +9,7 @@ categories:
 tags:
   - wikipedia
   - wikitude
-  ---
+---
 
 {% include-relative cs-wikitude.md %}
 
