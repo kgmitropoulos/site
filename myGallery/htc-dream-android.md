@@ -1,7 +1,7 @@
 ---
 author: kgmitropoulos
 title: HCT Dream Linux Based Android
-image_url: /images/htc-dream.png
+image_url: /myImages/htc-dream.jpg
 caption: Πρόκειται για το πρώτο έξυπνο κινητοό τηλέφωνο με λειτουργικό Linux-Based Android που πρωτοπαρουσιάστηκε από την HTC το Σεπτέμβριο του 2008. Ήταν γνωστό και ως T-Mobile G1 και το λειτουγικό του σύστημα αγοράστηκε και εξελίχθηκε από την google στο στο λειτουργικό σύστημα android.
 year: 2008 
 license_url: https://commons.wikimedia.org/wiki/File:HTC_Dream_Orange_FR.jpeg
